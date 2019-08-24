@@ -30,3 +30,17 @@ Authtoken may be needed for some function,without it the fowarding may only work
 
 
 ### another way is using http://localhost.run/, but not long lasting
+
+## send out the file
+after using wget/curl for downloading file 
+by ffsend, 
+ https://github.com/timvisee/ffsend
+ 
+ 
+
+## download file by gdrive
+
+https://github.com/gdrive-org/gdrive
+
+
+
