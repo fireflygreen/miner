@@ -2,6 +2,10 @@
 
 in Ubuntu , you can also use the https://tmate.io, 10 hr lasting
 
+### first tmux
+
+sudo apt install tmux
+
 ## install gotty
 https://github.com/yudai/gotty
 
